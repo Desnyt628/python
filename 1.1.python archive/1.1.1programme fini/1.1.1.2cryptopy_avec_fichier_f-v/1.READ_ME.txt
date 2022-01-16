@@ -1,0 +1,20 @@
+###comment chiffrer un message
+
+1.ouvrire message_a_chiffrer_et_dechiffrer.py et entrer le message a chiffrer 
+
+2.ourvire code_de_cesar_.py entrer enter et fermer le programme
+
+3.ouvrire message_crypter.txt
+
+4. prendre note le message ecrit a la suite de "text chiffrer =>" car ses le message chiffrer
+
+
+### comment dechiffrer un message
+
+1.ouvrire message_a_chiffrer_et_dechiffrer.py et entrer le message chiffrer
+
+2.ourvire code_de_cesar_.py entrer enter et fermer le programme
+
+3.ouvrire message_crypter.txt
+
+4. prendre note le message ecrit a la suite de "text dechiffrer =>" car ses le message dechiffrer
